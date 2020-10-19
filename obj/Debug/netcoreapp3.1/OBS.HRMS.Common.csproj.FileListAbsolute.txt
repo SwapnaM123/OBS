@@ -1,0 +1,27 @@
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.deps.json
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfoInputs.cache
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfo.cs
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csproj.CoreCompileInputs.cache
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+D:\Vijay\Dotnet applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
+D:\Vijay\Dotnet Applications\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csprojAssemblyReference.cache
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.deps.json
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csprojAssemblyReference.cache
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfoInputs.cache
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfo.cs
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csproj.CoreCompileInputs.cache
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+D:\SuryaBhaskarGrandi\Working Projects\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.deps.json
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\bin\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csprojAssemblyReference.cache
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfoInputs.cache
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.AssemblyInfo.cs
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.dll
+C:\Users\sm19462\Downloads\OjasHRMS\OBS.HRMS.Common\obj\Debug\netcoreapp3.1\OBS.HRMS.Common.pdb
